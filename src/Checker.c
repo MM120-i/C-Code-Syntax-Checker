@@ -1143,4 +1143,4 @@ void fCheck(fileLine arr[], int len)
     }
 }
 
-/** Credits to https://github.com/sanifalimomin/C-Syntax-Checker/tree/master for the source code. Further modifications to the code is done by me.*/
+/** Credits to https://github.com/sanifalimomin/C-Syntax-Checker/tree/master for the base source code. Further modifications to the code is done by me.*/
