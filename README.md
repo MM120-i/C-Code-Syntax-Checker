@@ -1,5 +1,5 @@
 # C-Code-Syntax-Checker
-C Code Syntax Checker
+Syntax Checker
 
 This repository contains a simple C code syntax checker implemented in C language. The program analyzes C source code files and performs various syntax checks for common C statements, such as printf, scanf, gets, puts, fscanf, fprintf, for, and while loops. The syntax checker helps identify potential errors in the code related to these statements and outputs error messages indicating the line numbers where issues are detected.
 
