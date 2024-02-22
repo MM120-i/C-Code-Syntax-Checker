@@ -2,19 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define SIZE 100
-#define MAX_LENGTH 10
-#define NUMBER_OF_KEYWORDS 32
-#define LINE_NUM 20
-
-typedef struct
-{
-
-    int lineno;
-    int linelen;
-    char linetext[SIZE];
-
-} fileLine;
+#include "Checker.h"
+#include "fileLine.h"
 
 int search(char arr[], int len);
 // void analyzeProgram(fileLine arr[], int len);
