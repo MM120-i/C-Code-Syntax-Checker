@@ -15,8 +15,15 @@ How to Use:
 - View the console output for syntax error messages and their corresponding line numbers.
 
 Example Usage:
+
 gcc Checker.c -o Checker
+
 ./Checker input.txt
+
+OR
+
+make (To compile)
+make clean (To clean compiled files after compilation)
 
 Contributing:
 Contributions are welcome! If you find issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
