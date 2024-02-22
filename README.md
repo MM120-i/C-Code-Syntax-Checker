@@ -23,6 +23,7 @@ gcc Checker.c -o Checker
 OR
 
 make (To compile)
+
 make clean (To clean compiled files after compilation)
 
 Contributing:
